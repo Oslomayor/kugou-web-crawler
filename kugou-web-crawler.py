@@ -53,8 +53,8 @@ def main():
     print('酷狗TOP500 2018-2-1 更新')
     file.write('酷狗TOP500 2018-2-1 更新\n\n')
     for url in urls:
-        print('on page:'+url)
-        file.write('on page:'+url)
+        print('on page:'+url+'\n')
+        file.write('on page:'+url+'\n')
         get_info(url)
         time.sleep(1)
 
