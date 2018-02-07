@@ -1,9 +1,9 @@
 # kugou-web-crawler
 ### 爬取酷狗 top 500 排行榜的音乐信息  
 
-10:46PM, Feb 7th, 2018
+#### 10:46PM, Feb 7th, 2018
 
-1.完善了 txt 文件保存爬取结果
+1.完善了 txt 文件保存爬取结果, 结果见 results-kugou-top500.txt
 
 2.解决了遇到的 UnicodeEncodeError 报错
 
@@ -29,7 +29,7 @@ help(open) 返回的官方解释：
 
 
 
-1:45PM, Feb 7th, 2018  
+#### 1:45PM, Feb 7th, 2018  
 
 提取了共23个页面，498条信息，酷狗 TOP500 2018-2-1  
 2点钟上课了，晚上回宿舍上传统计结果 txt 文件
