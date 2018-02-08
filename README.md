@@ -1,6 +1,6 @@
 # kugou-web-crawler
 ### 爬取酷狗 top 500 排行榜的音乐信息  
-
+### [](http://www.kugou.com/yy/rank/home/1-8888.html?from=rank)
 #### 10:46PM, Feb 7th, 2018
 
 1.完善了 txt 文件保存爬取结果, 结果见 results-kugou-top500.txt
